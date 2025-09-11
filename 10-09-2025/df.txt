@@ -1,0 +1,9 @@
+Promps:
+
+Projeto Detecção de fraude
+
+Crie o dataset simulando transações financeiras com algumas anomalias.
+
+Variáveis: valor, horário, localização, tipo de transação, fraude (sim/não).
+
+Desafio: desequilíbrio de classes, detecção de outliers.
