@@ -1,0 +1,25 @@
+Power Bi Banco_Box
+
+Gráfico de Barras
+
+Eixo X: cargo_atual
+
+Valores: Média de dividas_total
+
+#Objetivo: comparar quais cargos têm maiores dívidas médias.
+
+Gráfico de Colunas
+
+Eixo X: idade (faixas etárias → pode criar colunas binning: 18–25, 26–35, etc.)
+
+Valores: Média de historico_credito
+
+#Objetivo: mostrar como o histórico de crédito varia conforme a idade.
+
+Gráfico de Pizza
+
+Legenda/Grupo: cargo_atual
+
+Valores: Contagem de atraso_pagamento (ou soma).
+
+#Objetivo: participação dos cargos nos atrasos.

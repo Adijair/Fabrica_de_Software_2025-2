@@ -1,0 +1,24 @@
+-Gráfico de Colunas 
+
+Eixo X: estado_nome
+
+Valores: Contagem de estado_nome
+
+Objetivo: ver quantos alunos estão em cada estado (Ativa vs Sedentária).
+
+
+-Gráfico de Linha
+
+Eixo X: data_matricula (formatar como Data)
+
+Valores: Contagem de alunos (ou soma de estado_num para ver só Ativos).
+
+Objetivo: evolução das matrículas ao longo do tempo.
+
+-Cartões
+
+Total de alunos.
+
+% Ativos (proporção estado_num).
+
+Tempo médio desde a matrícula (dias_desde_matricula).
